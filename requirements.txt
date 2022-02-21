@@ -4,3 +4,5 @@ sklearn
 xgboost
 sklearn
 jupyterlab
+matplotlib
+ipykernel
