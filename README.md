@@ -3,17 +3,17 @@ Given a private dataset, transform the data so that it is usable for an XGBoost 
 
 # How to run the notebooks
 
-1. Go to the folder
+1. Go to the folder<br>
   *cd C:\path\to\repo\mortgage-default-prediction*
-2. Create a virtual environment (Windows)
-  *virtualenv --python C:\Path\To\Python\python.exe venv*
-(Linux)
+2. Create a virtual environment (Windows)<br>
+  *virtualenv --python C:\Path\To\Python\python.exe venv*<br>
+(Linux)<br>
   *python -m venv [directory]*
-3. Activate the virtual environment (Win)
-  *.\venv\Scripts\activate*
-(Linux)
+3. Activate the virtual environment (Win)<br>
+  *.\venv\Scripts\activate*<br>
+(Linux)<br>
   *source myvenv/bin/activate*
-4. Once you're in, you need to install the libraries in the requirements.txt file
+4. Once you're in, you need to install the libraries in the requirements.txt file<br>
   *pip install -r requirements.txt*
 
 You're all set to go! :)
