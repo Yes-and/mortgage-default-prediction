@@ -1,20 +1,22 @@
 # Predicting the probability of a mortgage default
 Given a private dataset, transform the data so that it is usable for an XGBoost classifier and try to predict whether a client will or will not default in the next twelve months.
 
-# How to run notebooks located here
+# How to run the notebooks
 
 1. Go to the folder
-  > cd C:\path\to\repo\mortgage-default-prediction
+  *cd C:\path\to\repo\mortgage-default-prediction*
 2. Create a virtual environment (Windows)
-  > virtualenv --python C:\Path\To\Python\python.exe venv
+  *virtualenv --python C:\Path\To\Python\python.exe venv*
 (Linux)
-  > python -m venv [directory]
+  *python -m venv [directory]*
 3. Activate the virtual environment (Win)
-  > .\venv\Scripts\activate
+  *.\venv\Scripts\activate*
 (Linux)
-  > source myvenv/bin/activate
+  *source myvenv/bin/activate*
+4. Once you're in, you need to install the libraries in the requirements.txt file
+  *pip install -r requirements.txt*
 
-You are all set to go! :)
+You're all set to go! :)
 
 # Different notebooks
 
