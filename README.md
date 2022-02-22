@@ -25,7 +25,7 @@ Currently, the notebooks have current functions
 2. Simple model using two parameters
 3. A more advanced model using basic feature engineering
 
-And more notebooks that have more advanced models will be added
+Better models with more advanced features will be added until the project deadline
 
 # Disclaimer
 
