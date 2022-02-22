@@ -4,15 +4,15 @@ Given a private dataset, transform the data so that it is usable for an XGBoost 
 # How to run notebooks located here
 
 1. Go to the folder
-> cd C:\path\to\repo\mortgage-default-prediction
+  > cd C:\path\to\repo\mortgage-default-prediction
 2. Create a virtual environment (Windows)
-> virtualenv --python C:\Path\To\Python\python.exe venv
+  > virtualenv --python C:\Path\To\Python\python.exe venv
 (Linux)
-> python -m venv [directory]
+  > python -m venv [directory]
 3. Activate the virtual environment (Win)
-> .\venv\Scripts\activate
+  > .\venv\Scripts\activate
 (Linux)
-> source myvenv/bin/activate
+  > source myvenv/bin/activate
 
 You are all set to go! :)
 
