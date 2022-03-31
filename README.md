@@ -1,6 +1,10 @@
 # Predicting the probability of a mortgage default
 Given a private dataset, transform the data so that it is usable for an XGBoost classifier and try to predict whether a client will or will not default in the next twelve months.
 
+There is a logistic regression model written and a scorecard script, both written in R and located in the R folder.
+
+There is also an XGBoost model written in Jupyter using Python.
+
 # How to run the notebooks
 
 1. Go to the folder<br>
@@ -32,3 +36,7 @@ Better models with more advanced features will be added until the project deadli
 # Disclaimer
 
 The data for this analysis is private, so it is included in the .gitignore file. You can try to replicate these results by uploading it and running the scripts
+
+# Credits
+
+Credits to Arba, Polina and Arina 
